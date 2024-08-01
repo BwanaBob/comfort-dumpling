@@ -1,2 +1,1 @@
-# comfort-dumpling
-perfect
+Jake V4 using Devvit triggers rather than native API polling
